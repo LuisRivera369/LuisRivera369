@@ -48,8 +48,8 @@ I am a computer science professional passionate about writing code, solving prob
 ## 📫 How to reach me
 
 <p
-  <a href="mailto:lerhgm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/luis-rivera-huarcaya-a98166221/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:lerhgm@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/luis-rivera-huarcaya-a98166221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
 
 ## 📊 GitHub Stats:
