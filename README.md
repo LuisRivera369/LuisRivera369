@@ -46,11 +46,8 @@ I am a computer science professional passionate about writing code, solving prob
 <!--END_SECTION:waka-->
 
 ## 📫 How to reach me
-
-<p
-  <a href="mailto:lerhgm@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/luis-rivera-huarcaya-a98166221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-</p>
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:lerhgm@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luis-rivera-huarcaya-a98166221/)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LuisRivera369&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
