@@ -52,7 +52,7 @@ I am a computer science professional passionate about writing code, solving prob
   <a href="https://www.linkedin.com/in/luis-rivera-huarcaya-a98166221/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LuisRivera369&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=LuisRivera369&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisRivera369&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
